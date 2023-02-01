@@ -29,6 +29,10 @@
 		</dependency>
 	</dependencies>
 
+<!-- changes by DEVINDIA :::::::: -->
+
+<!-- changes by DEVUSA ;;;;;;;;;;;; -->
+
 	<build>
 		<plugins>
 			<plugin>
